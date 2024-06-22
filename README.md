@@ -1,38 +1,9 @@
-# create-svelte
+# Inspirational Quotes
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/kniziol/0cfdce04c9451b3a6ed64465a24a3811/raw/tests.json)
+![badge](https://img.shields.io/endpoint?url=https://gist.githubusercontent.com/kniziol/ee16590d968b028997b7fcb70337bb23/raw/version.json)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-## Creating a project
+Simple [Svelte](https://svelte.dev/)-base application that shows inspirational quotes
 
-If you're seeing this, you've probably already done this step. Congrats!
-
-```bash
-# create a new project in the current directory
-npm create svelte@latest
-
-# create a new project in my-app
-npm create svelte@latest my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+Feel free to customize it! 😇
