@@ -13,8 +13,8 @@ Feel free to customize it! 😇
 
 1. Start Docker containers
 
-    ```shell
-    docker compose up --detach
-    ```
+   ```shell
+   docker compose up --detach
+   ```
 
 2. Open the app in your browser: http://localhost:8000
