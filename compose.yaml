@@ -6,7 +6,7 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "8000:5173"
+      - '8000:5173'
     volumes:
       - .:/app
       # Prevent host's node_modules from overwriting container's node_modules
