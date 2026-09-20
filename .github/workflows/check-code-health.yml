@@ -16,21 +16,20 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node-version: [latest]
+        node-version: [lts, latest]
     steps:
       - name: Checkout
         uses: actions/checkout@v7
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v7
+      - name: Setup pnpm and install dependencies
+        uses: pnpm/setup@v2
         with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'npm'
-      - name: Install dependencies
-        run: npm ci
+          version: ^12.0
+          runtime: node@${{ matrix.node-version }}
+          cache: true
       - name: Run Svelte diagnostics checks
-        run: npm run check
+        run: pnpm check
       - name: Run Prettier & ESLint
-        run: npm run lint
+        run: pnpm lint
   test:
     runs-on: ${{ matrix.os }}
     needs: [check]
@@ -38,28 +37,27 @@ jobs:
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node-version: [latest]
+        node-version: [lts, latest]
     steps:
       - name: Checkout
         uses: actions/checkout@v7
-      - name: Use Node.js ${{ matrix.node-version }}
-        uses: actions/setup-node@v7
+      - name: Setup pnpm and install dependencies
+        uses: pnpm/setup@v2
         with:
-          node-version: ${{ matrix.node-version }}
-          cache: 'npm'
-      - name: Install dependencies
-        run: npm ci
+          version: ^12.0
+          runtime: node@${{ matrix.node-version }}
+          cache: true
       - name: Run the integration tests
-        run: npx playwright install && npm run test:integration
+        run: npx playwright install && pnpm test:integration
       - name: Run the unit tests
-        run: npm run test:unit
+        run: pnpm test:unit
   update-badges:
     runs-on: ${{ matrix.os }}
     needs: [test]
     strategy:
       matrix:
         os: [ubuntu-latest]
-        node-version: [latest]
+        node-version: [lts, latest]
     steps:
       - name: Update tests badge
         if: needs.test.result == 'success'
