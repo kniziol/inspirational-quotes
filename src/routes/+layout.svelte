@@ -1,5 +1,12 @@
-<script>
+<script lang="ts">
   import '../app.scss';
+  import type { Snippet } from 'svelte';
+
+  interface Props {
+    children: Snippet;
+  }
+
+  let { children }: Props = $props();
 </script>
 
-<slot />
+{@render children()}
