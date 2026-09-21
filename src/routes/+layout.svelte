@@ -9,4 +9,6 @@
   let { children }: Props = $props();
 </script>
 
-{@render children()}
+<div class="flex justify-center items-center w-screen h-screen p-4">
+  {@render children()}
+</div>

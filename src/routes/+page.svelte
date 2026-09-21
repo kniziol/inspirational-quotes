@@ -1,8 +1,13 @@
-<h1 class="text-3xl font-bold">Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+<script>
+  // TODO (kn) Load quotes from JSON file
+  // TODO (kn) Add handler for button click and display a random quote
+</script>
 
-<style lang="postcss">
-  :global(html) {
-    background-color: theme(colors.gray.100);
-  }
-</style>
+<div class="flex flex-col gap-4">
+  <div>
+    Id esse consectetur duis ut veniam tempor eu in. Mollit et do amet reprehenderit enim duis Lorem eu aliquip ut amet.<br>Adipisicing occaecat tempor adipisicing nulla officia dolore enim excepteur est incididunt id aliquip amet.
+  </div>
+  <div class="flex justify-center">
+    <button>Click me</button>
+  </div>
+</div>
