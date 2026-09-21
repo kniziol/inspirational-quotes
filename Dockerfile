@@ -1,5 +1,6 @@
 FROM ghcr.io/pnpm/pnpm:12 AS base
 RUN pnpm runtime set node 26 -g
+RUN pnpm i -g @antfu/ni
 COPY . /app
 WORKDIR /app
 
