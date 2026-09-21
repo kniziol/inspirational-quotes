@@ -9,9 +9,6 @@ export default defineConfig({
     watch: {
       usePolling: true,
     },
-    ws: {
-      clientPort: 8000,
-    },
   },
   test: {
     include: ['src/**/*.{test,spec}.{js,ts}'],

@@ -1,34 +1,86 @@
-# Development-related information
+# Inspirational Quotes
 
-## Developing
+Development-related information
 
-Once you've created a project and installed dependencies with `npm install`, start a development server:
+## Requirements
 
-```bash
-npm run dev
+1. [Git](https://git-scm.com)
+2. [Docker](https://www.docker.com)
+3. Your favourite IDE :)
+
+## Getting started
+
+1. Build, create and start Docker's containers by running command:
+
+   ```bash
+   docker compose up --detach
+   ```
+
+2. Open the app in your browser: http://localhost:5173
+
+## Tips
+
+### Productivity tip
+
+> [!TIP]
+> Using an alias for the `docker compose {command}` command can be more
+> efficient because it requires less typing.
+
+#### Create aliases
+
+```shell
+alias dce='docker compose exec'
+alias dcl='docker compose logs -f'
+alias dcr='docker compose run --rm'
+alias dcp='docker compose ps --all'
+alias dcu='docker compose up -d'
 ```
 
-Or start the server and open the app in a new browser tab:
+#### See the comparison
 
-```bash
-npm run dev -- --open
-```
+An example of running a Bash command:
+
+| Before                         | After          |
+| ------------------------------ | -------------- |
+| `docker compose exec app bash` | `dce app bash` |
+
+### The `ni` tool
+
+> [!TIP]
+> Instead of installing manually `pnpm`, you can run the `ni` tool, a universal
+> Node package manager. It supports all the modern and popular package managers.
+
+Comparison of `pnpm` and `ni` commands:
+
+| pnpm           | ni          |
+| -------------- | ----------- |
+| `pnpm install` | `ni`        |
+| `pnpm dev`     | `nr dev`    |
+| `pnpm lint`    | `nr lint`   |
+| `pnpm format`  | `nr format` |
+
+See more:
+
+- https://www.npmjs.com/package/@antfu/ni
+- https://github.com/antfu-collective/ni
 
 ## Building
 
 To create a production version of the app:
 
 ```bash
-npm run build
+docker compose exec app nr build
 ```
 
 You can preview the production build with:
 
 ```bash
-npm run preview
+docker compose exec app nr preview
 ```
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+> To deploy your app, you may need to install
+> an [adapter](https://kit.svelte.dev/docs/adapters) for your target
+> environment.
 
 ## Testing
 
@@ -37,19 +89,19 @@ npm run preview
 To run all tests of your app:
 
 ```bash
-npm run test
+docker compose exec app nr test
 ```
 
 ### Unit tests only
 
 ```bash
-npm run test:unit
+docker compose exec app nr test:unit
 ```
 
 ### Integration tests only
 
 ```bash
-npm run test:integration
+docker compose exec app nr test:integration
 ```
 
 ## Other
@@ -57,17 +109,17 @@ npm run test:integration
 ### Svelte diagnostics checks
 
 ```bash
-npm run check
+docker compose exec app nr check
 ```
 
 ### ESLint && Prettier
 
 ```bash
-npm run lint
+docker compose exec app nr lint
 ```
 
 ### Prettier updating files
 
 ```bash
-npm run format
+docker compose exec app nr format
 ```

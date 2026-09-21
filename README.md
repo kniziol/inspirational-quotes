@@ -9,12 +9,6 @@ quotes
 
 Feel free to customize it! 😇
 
-## Run the app (for development)
+## Development
 
-1. Start Docker containers
-
-   ```shell
-   docker compose up --detach
-   ```
-
-2. Open the app in your browser: http://localhost:8000
+More information [you can find here](docs/Development.md)
