@@ -1,0 +1,982 @@
+[
+  {
+    "text": "Nasze umysły są jak spadochrony. Działają tylko, gdy są otwarte",
+    "author": "Thomas Dewer"
+  },
+  {
+    "text": "Statki w porcie są bezpieczne, ale stanie w porcie nie jest ich przeznaczeniem",
+    "author": "Walt Disney"
+  },
+  {
+    "text": "Żyje się tylko raz, ale jeśli żyjesz dobrze, ten raz wystarczy",
+    "author": "Mae West"
+  },
+  {
+    "text": "Istnieją tylko dwa dni w roku, w których nic nie może być zrobione. Jeden nazywamy wczoraj, a drugi jutro",
+    "author": "Dalai Lama"
+  },
+  {
+    "text": "Gdy wszyscy wiedzą, że coś jest niemożliwe, przychodzi ktoś, kto o tym nie wie i robi to",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Szaleństwo to robienie ciągle tych samych rzeczy w oczekiwaniu różnych rezultatów",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "To, że milczę, nie znaczy, że nie mam nic do powiedzenia",
+    "author": "Jonathan Carroll"
+  },
+  {
+    "text": "Szczęście może przyjść przypadkowo, ale o rozum musimy postarać się sami",
+    "author": "Cyceron"
+  },
+  {
+    "text": "Ci, którzy nie pamiętają o przeszłości, są skazani na jej powtarzanie",
+    "author": "George Santayana"
+  },
+  {
+    "text": "Zdrowy rozsądek to rzecz, której każdy potrzebuje, mało kto posiada, a nikt nie wie, że mu brakuje",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Bądź dobrej myśli, bo po co być złej",
+    "author": "Stanisław Lem"
+  },
+  {
+    "text": "Poznaj samego siebie",
+    "author": "Sokrates"
+  },
+  {
+    "text": "Mądrość polega na tym, żeby uśpić zmysły, a obudzić rozum",
+    "author": "Platon"
+  },
+  {
+    "text": "Mogę być bardzo wściekły na to, czego nie mam, albo bardzo wdzięczny za to, co mam",
+    "author": "Nick Vujicic"
+  },
+  {
+    "text": "Różnica między umysłem głupca i geniusza jest taka, że umysł geniusza jest jednak ograniczony",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Ludzie budują za dużo murów, a za mało mostów",
+    "author": "Isaac Newton"
+  },
+  {
+    "text": "Wielkość człowieka polega na jego postanowieniu, żeby być silniejszym niż warunki czasu i życia",
+    "author": "Albert Camus"
+  },
+  {
+    "text": "Dopiero w samotności człowiek jest naprawdę sobą",
+    "author": "José Ortega y Gasset"
+  },
+  {
+    "text": "Żaden wiatr nie jest pomyślny temu, kto nie wie, do którego portu płynie",
+    "author": "Machiavelli"
+  },
+  {
+    "text": "Wiele spośród rzeczy, które możesz policzyć, nie liczą się. Wiele z tych, których policzyć nie można, naprawdę sie liczą.",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Zdrowy rozsądek to rzecz, której każdy potrzebuje, mało kto posiada, a nikt nie wie, że mu brakuje",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Jeśli nie chcesz być zapomnianym szybko po śmierci, albo zaraz pisz rzeczy warte przeczytania, albo czyń rzeczy warte opisania",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Przeciwności losu uczą mądrości, powodzenie ją odbiera",
+    "author": "Seneka Młodszy"
+  },
+  {
+    "text": "Szczęście jest przyjemnością wolną od wyrzutów sumienia",
+    "author": "Sokrates"
+  },
+  {
+    "text": "Ci, którzy nie pamiętają o przeszłości, są skazani na jej powtarzanie",
+    "author": "George Santayana"
+  },
+  {
+    "text": "Szczęście może przyjść przypadkowo, ale o rozum musimy postarać się sami",
+    "author": "Cyceron"
+  },
+  {
+    "text": "Doświadczenie jest najlepszym nauczycielem",
+    "author": "Cyceron"
+  },
+  {
+    "text": "Ten jest bogaczem, który tyle posiada, że niczego więcej nie pożąda",
+    "author": "Cyceron"
+  },
+  {
+    "text": "Pewnego przyjaciela poznaje się w niepewnym położeniu",
+    "author": "Cyceron"
+  },
+  {
+    "text": "Strach powstaje wcześniej niż wszystko inne",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "text": "Cygaro to śmierdzące ziele z ogniem na jednym, a z głupcem na drugim końcu",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Pycha jest zwierciadłem, które pomniejsza nasze wady, a powiększa nasze zalety",
+    "author": "Monteskiusz"
+  },
+  {
+    "text": "Zarozumiałość zasiada do śniadania z obfitością, do obiadu z biedą, a do kolacji z nędzą",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Oko mistrza wykonuje więcej pracy niż jego obie ręce",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Cierpliwość jest gorzka, ale jej owoce są słodkie",
+    "author": "Jean-Jacques Rousseau"
+  },
+  {
+    "text": "To, co zdobyliśmy z największym trudem, najbardziej kochamy",
+    "author": "Seneka Młodszy"
+  },
+  {
+    "text": "Oszczędność jest to umiejętność unikania zbędnych wydatków",
+    "author": "Seneka Młodszy"
+  },
+  {
+    "text": "Kto chce rządzić ludźmi, nie powinien ich gnać przed sobą, lecz sprawić, by podążali za nim",
+    "author": "Monteskiusz"
+  },
+  {
+    "text": "Czyń dobro przyjaciołom aby ich zachować, a wrogom aby ich pokonać",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Drzewo nie smagane wichrem, rzadko kiedy wyrasta silne i zdrowe",
+    "author": "Seneka Młodszy"
+  },
+  {
+    "text": "Zdrowy rozsądek może zastąpić prawie każdy stopień wykształcenia, lecz żadne wykształcenie zdrowego rozsądku.",
+    "author": "Arthur Schopenhauer"
+  },
+  {
+    "text": "Wierzyciele mają lepszą pamięć niż dłużnicy",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "O zamożności decydują obyczaje, a nie bogactwa",
+    "author": "Monteskiusz"
+  },
+  {
+    "text": "Każdy wielki postęp naukowy zrodził się z bezczelności wyobraźni",
+    "author": "John Dewey"
+  },
+  {
+    "text": "Każdy jest geniuszem. Ale jeśli ocenisz rybę po jej zdolności do wspinania się po drzewie, całe życie będzie wierzyła, że jest głupia",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Im mniej dorośli będą się wtrącać, tym szybciej dzieci nauczą się postępować właściwie",
+    "author": "Jesper Juul"
+  },
+  {
+    "text": "Prawda może bowiem wyniknąć z fałszywych przesłanek, aczkolwiek nigdy fałsz nie wyniknie z prawdy",
+    "author": "Arthur Schopenhauer"
+  },
+  {
+    "text": "Przygotowując się do bitwy, zawsze orientowałem się, że plany są bezużyteczne, ale planowanie jest nieodzowne",
+    "author": "Dwight Eisenhower"
+  },
+  {
+    "text": "Jednak w życiu nie zawsze trzeba być doskonałym - czasami szczęście polega na dążeniu do tego",
+    "author": "Jesper Juul"
+  },
+  {
+    "text": "Nasze życie jest takim, jakim uczyniły je nasze myśli",
+    "author": "Marek Aureliusz"
+  },
+  {
+    "text": "Budząc się rano, pomyśl jaki to wspaniały skarb żyć, oddychać i móc się radować",
+    "author": "Marek Aureliusz"
+  },
+  {
+    "text": "Nie należy lekceważyć drobnostek, bo od nich zależy doskonałość",
+    "author": "Michał Anioł"
+  },
+  {
+    "text": "Prostota jest szczytem wyrafinowania",
+    "author": "Leonardo da Vinci"
+  },
+  {
+    "text": "Jesteśmy tym, co w swoim życiu powtarzamy. Doskonałość nie jest jednorazowym aktem, lecz nawykiem",
+    "author": "Arystoteles"
+  },
+  {
+    "text": "Ci, którzy wciąż zastanawiają się zanim uczynią jeden krok, spędzają życie, stojąc na jednej nodze",
+    "author": "Anthony de Mello"
+  },
+  {
+    "text": "Matematyka jest alfabetem, za pomocą którego Bóg opisał wszechświat",
+    "author": "Galileusz"
+  },
+  {
+    "text": "Osiągnięcie celu jest punktem startowym do osiągnięcia kolejnego",
+    "author": "John Dewey"
+  },
+  {
+    "text": "Dziecko chce być dobre. Jeśli nie umie - naucz. Jeśli nie wie - wytłumacz. Jeśli nie może - pomóż.",
+    "author": "Janusz Korczak"
+  },
+  {
+    "text": "Obelgi to argumenty tych, którzy nie mają argumentów",
+    "author": "Jean-Jacques Rousseau"
+  },
+  {
+    "text": "Ze świata tego każdy ma tyle, ile sobie weźnie",
+    "author": "Lew Tołstoj"
+  },
+  {
+    "text": "Noś w sobie pewność. Wiedz, że osiągniesz cel, a osiągniesz go z pewnością. Nie pozwól, by do twojej głowy wkradły się wątpliwości, bo cię zniszczą. Tak brzmi reguła samosprawdzającej się przepowiedni.",
+    "author": "John Flanagan"
+  },
+  {
+    "text": "Jeśli ktoś stracił pieniądze, nic nie stracił. Jeśli ktoś przegrał bitwę i stracił wojsko, mało stracił. Jeśli ktoś stracił wiarę, wszystko stracił.",
+    "author": "Napoleon Bonaparte"
+  },
+  {
+    "text": "Umysł nie jest naczyniem, które należy napełnić, lecz ogniem, który trzeba rozniecić",
+    "author": "Plutarch"
+  },
+  {
+    "text": "Człowiek nie został stworzony, by zrozumieć życie, ale żeby je przeżyć",
+    "author": "George Santayana"
+  },
+  {
+    "text": "Życie to ciekawość. Jeśli nie jesteś ciekawy, oznacza to, że leżysz w trumnie",
+    "author": "Pierre Boulez"
+  },
+  {
+    "text": "Kto się boi nie wiedząc właściwie czego, podwójnie się boi",
+    "author": "Ivo Andrić"
+  },
+  {
+    "text": "Po młodości bez żaru następuje starość bez doświadczeń",
+    "author": "Charles Caleb Colton"
+  },
+  {
+    "text": "Sztuka życia: móc zaspokoić głód zachowując apetyt",
+    "author": "Anita Daniel"
+  },
+  {
+    "text": "Ciesz się z sukcesów i świętuj je, ale po każdym odniesionym sukcesie podnoś poprzeczkę o jeden stopień wyżej",
+    "author": "Mia Hamm"
+  },
+  {
+    "text": "Nie poddawaj się w dążeniu do tego co na prawdę chcesz robić. Tam gdzie jest miłość i inspiracja to myślę, że nie zbłądzisz.",
+    "author": "Ella Fitzgerald"
+  },
+  {
+    "text": "Każdy ma talent. Tym, co rzadkie to odwaga, aby podążyć za nim w mroczne miejsca do których prowadzi.",
+    "author": "Erica Jong"
+  },
+  {
+    "text": "Nie czekaj aż pojawi się coś dużego. Zacznij w tym miejscu, w którym się znajdujesz, z tym co masz a zawsze dojdziesz do czegoś wspaniałego.",
+    "author": "Manin Morrissey"
+  },
+  {
+    "text": "To nie ciężar cię łamie a sposób w jaki go niesiesz",
+    "author": "Lena Horne"
+  },
+  {
+    "text": "Spokój ponad gniewem. Honor ponad nienawiścią. Siła ponad strachem.",
+    "author": "Jude Watson"
+  },
+  {
+    "text": "Wszyscy rodzimy się szaleni. Niektórzy już tacy pozostają.",
+    "author": "Samuel Beckett"
+  },
+  {
+    "text": "Twoja marka jest tym, co mówią o Tobie inni ludzie, gdy nie ma Cię w pokoju",
+    "author": "Jeff Bezos"
+  },
+  {
+    "text": "Ludzie, którzy przez większość czasu mają rację, to ludzie, którzy często zmieniają zdanie",
+    "author": "Jeff Bezos"
+  },
+  {
+    "text": "Bądź uparty w wizji, ale elastyczny w szczegółach",
+    "author": "Jeff Bezos"
+  },
+  {
+    "text": "Jeśli nie możesz tolerować krytyków, nie rób niczego nowego ani interesującego",
+    "author": "Jeff Bezos"
+  },
+  {
+    "text": "Za każdym razem, kiedy widzisz biznes, który odnosi #sukces, oznacza to, że ktoś kiedyś podjął odważną decyzję",
+    "author": "Peter Drucker"
+  },
+  {
+    "text": "Dwa są rodzaje mądrości: jedna umożliwia działanie, druga zaś od takowego powstrzymuje",
+    "author": "Stanisław Lem"
+  },
+  {
+    "text": "Jeśli chcesz być tam gdzie nigdy nie byłeś, musisz iść drogą, którą nigdy nie szedłeś",
+    "author": "Dominick Coniguliar"
+  },
+  {
+    "text": "Jedyną drogą do tworzenia wielkich rzeczy, jest kochanie tego co się robi",
+    "author": "Steve Jobs"
+  },
+  {
+    "text": "Nie ma problemów nie do rozwiązania. Są tylko rozwiązania nieprzyjemne.",
+    "author": "Aleksandra Marinina"
+  },
+  {
+    "text": "Patrz w gwiazdy, a nie pod nogi. Bądź ciekawski. I jakkolwiek trudne wydaje się życie, zawsze jest coś, w czym możesz osiągnąć sukces. Wystarczy tylko, że się nie poddasz.",
+    "author": "Stephen Hawking"
+  },
+  {
+    "text": "Ludzie, którzy odnoszą w życiu sukces, nie zadają pytania czy go osiągną, ale kiedy to nastąpi. Są jak czołg. Po prostu idą pos swoje.",
+    "author": "Katarzyna Sołtysik"
+  },
+  {
+    "text": "Ekspert to taki człowiek, który popełnił wszystkie możliwe błędy w bardzo wąskiej dziedzinie",
+    "author": "Niels Bohr"
+  },
+  {
+    "text": "Zawsze znajdzie się odpowiednia filozofia do braku odwagi",
+    "author": "Alber Camus"
+  },
+  {
+    "text": "Kluczem do szczęścia jest posiadanie marzeń. Kluczem do sukcesu jest ich realizacja.",
+    "author": "James Allen"
+  },
+  {
+    "text": "Pomaganie ludziom wzrastać i spełniać marzenia jest najszybszą drogą do sukcesu - zarówno ich, jak i Twojego.",
+    "author": "T. Harv Eker"
+  },
+  {
+    "text": "Kiedy czegoś gorąco pragniesz, to cały Wszechświat działa potajemnie by udało Ci się to osiągnąć",
+    "author": "Paulo Coelho"
+  },
+  {
+    "text": "Nie mów mi, jakie masz priorytety. Pokaż mi na co wydajesz swoje pieniądze, a powiem Ci, jakie one są.",
+    "author": "James W. Frick"
+  },
+  {
+    "text": "Biednym jest się dopiero wtedy, kiedy już się niczego nie chce",
+    "author": "Erich Maria Remarque"
+  },
+  {
+    "text": "Ku celom pożądanym wiodą drogi trudne",
+    "author": "Eliza Orzeszkowa"
+  },
+  {
+    "text": "Dziecko może nauczyć dorosłego trzech rzeczy: cieszyć się bez powodu, być ciągle czymś zajętym i domagać się - ze wszystkich sił - tego, czego się pragnie.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "text": "Wykorzystaj czas na doskonalenie się poprzez czytanie dzieł innych ludzi, aby łatwo osiągnąć to, na co oni ciężko zapracowali",
+    "author": "Sokrates"
+  },
+  {
+    "text": "Przyjemność dawania pamięta się dłużej niż przyjemność brania",
+    "author": "de Chamfort"
+  },
+  {
+    "text": "Jednym z rodzajów szczęśliwości jest zdolność podejmowania dobrych decyzji",
+    "author": "Platon"
+  },
+  {
+    "text": "Możesz nie być w stanie kontrolować sytuacji, ale zawsze możesz kontrolować swoją reakcję",
+    "author": "Austin Mcgonigle"
+  },
+  {
+    "text": "Zawsze dawaj bez zapamiętywania i zawsze zapamiętuj, kiedy dostajesz",
+    "author": "Brian Tracy"
+  },
+  {
+    "text": "Dojrzałość niektórych polega na tym, że strofują młodszych od siebie",
+    "author": "Tadeusz Gicger"
+  },
+  {
+    "text": "Przekraczać granice - to mniejszy błąd niż do nich nie dotrzeć",
+    "author": "Konfucjusz"
+  },
+  {
+    "text": "Nie wystarczy dużo wiedzieć, żeby być mądrym",
+    "author": "Heraklit z Efezu"
+  },
+  {
+    "text": "Sukces jest otrzymywaniem tego, czego pragniesz. Szczęście - pragnieniem tego, co otrzymujesz.",
+    "author": "Dale Carnegie"
+  },
+  {
+    "text": "Nie sądzę, by ktokolwiek wiedział wystarczająco dużo, aby właściwie ocenić, co jest możliwe, a co nie",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "Cierpliwość, wytrwałość i pot tworzą niepokonaną kombinację sukcesu",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "By być wielkim mistrzem, musisz wierzyć, że jesteś najlepszy. Jeśli to nieprawda - udawaj, że jednak jesteś.",
+    "author": "Muhammad Ali"
+  },
+  {
+    "text": "Bogaty jest nie ten, kto wiele ma, lecz ten, kto wiele daje",
+    "author": "Erich Fromm"
+  },
+  {
+    "text": "Dla umysłu nie istnieją ograniczenia, poza tymi, które samodzielnie uznamy za prawdziwe",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Stan Twojego życia jest niczym innym, jak odbiciem stanu Twojego umysłu",
+    "author": "Dr. Wayne W. Dyer"
+  },
+  {
+    "text": "Słowo zachęty podczas porażki jest warte więcej niż godzina pochwał po sukcesie",
+    "author": "autor nieznany"
+  },
+  {
+    "text": "To, co widzimy zależy w głównej mierze od tego, co chcemy zobaczyć",
+    "author": "John Lubbock"
+  },
+  {
+    "text": "Osoba, która twierdzi, że coś jest niemożliwe nie powinna przeszkadzać osobie, która właśnie to robi",
+    "author": "przysłowie chińskie"
+  },
+  {
+    "text": "Szukam siły nie po to, by stać się mocniejsza od innych, ale by zwalczyć  swego najgroźniejszego przeciwnika - własne wątpliwości",
+    "author": "Kristin Cast"
+  },
+  {
+    "text": "Moje życie pełne było straszliwych nieszczęść, z których większość nie nastąpiła",
+    "author": "Michel de Montaigne"
+  },
+  {
+    "text": "W życiu nie chodzi o posiadanie samych dobrych kart, ale o umiejętne granie tymi, które już masz",
+    "author": "Josh Billings"
+  },
+  {
+    "text": "Szczęście jest tym, z czym identyfikuje się Twoje serce",
+    "author": "Reinhold Messner"
+  },
+  {
+    "text": "Nie wiem, co jest kluczem do sukcesu, ale kluczem do klęski jest chcieć zadowolić wszystkich",
+    "author": "Bill Cosby"
+  },
+  {
+    "text": "\"Kiedyś\" to choroba, która każe nam zabrać wszystkie marzenia do grobu",
+    "author": "Timothy Ferris"
+  },
+  {
+    "text": "Bez Twojego pozwolenia nikt nie może sprawić, że poczujesz się gorszy",
+    "author": "Eleanor Roosevelt"
+  },
+  {
+    "text": "Trzymaj się z daleka od negatywnych ludzi. Mają problem na każde rozwiązanie.",
+    "author": "autor nieznany"
+  },
+  {
+    "text": "Praca rozumna i wytrwała, która nie myśli o zbieraniu owoców w tydzień po posiewie, przebija góry, nad przepaściami przerzuca mosty",
+    "author": "Bolesław Prus"
+  },
+  {
+    "text": "Lepiej spłonąć niż zwiędnąć",
+    "author": "Aleksander Wielki"
+  },
+  {
+    "text": "Gdybyśmy robili wszystko, na co nas stać, bez żadnej przesady zadziwilibyśmy siebie",
+    "author": "Thomas Edison"
+  },
+  {
+    "text": "Klęska jest przebiegłym kawalarzem o wyrobionym zmyśle ironii. Znajduje ona szczególne upodobanie w dopadaniu ludzi w chwili, gdy wydają się mieć sukces w zasięgu ręki.",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Zła wiadomość jest taka, że czas leci. Dobra wiadomość - że Ty jesteś pilotem.",
+    "author": "Michael Altshuler"
+  },
+  {
+    "text": "80% sukcesu to obecność",
+    "author": "Woody Allen"
+  },
+  {
+    "text": "Odwaga jest jak miesięń. Wzmacniamy ją podczas używana.",
+    "author": "Ruth Gordon"
+  },
+  {
+    "text": "Kobieta jest jak herbata w torebce. Z jej mocy można zdać sobie sprawę tylko w gorącej wodzie.",
+    "author": "Nancy Reagan"
+  },
+  {
+    "text": "Bez wiary potykamy się o źdźbło słomy. Z wiarą przenosimy góry.",
+    "author": "Soren Kierkegaard"
+  },
+  {
+    "text": "Zrób to zanim będziesz gotów, gdyż nigdy nie będziesz gotów jeśli będziesz czekać",
+    "author": "Les Brown"
+  },
+  {
+    "text": "Nie pragnij perfekcji. Pragnij spełnienia. Perfekcja to nieosiągalna iluzja.",
+    "author": "Lisa Genova"
+  },
+  {
+    "text": "Patrząc zawsze przed siebie, myśląc o tym jak zrobić jeszcze więcej, osiągniesz stan umysłu, w którym nie ma rzeczy niemożliwych",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "Lepiej zaliczać się do niektórych, niż do wszystkich",
+    "author": "Andrzej Sapkowski"
+  },
+  {
+    "text": "Talent jest tańszy od soli. Tym, co odróżnia utalentowanego człowieka od człowieka sukcesu, jest mnóstwo ciężkiej pracy.",
+    "author": "Stephen King"
+  },
+  {
+    "text": "Głównym powodem porażki i nieszczęścia jest wymienianie tego, czego najbardziej pragniesz na to, czego pragniesz teraz",
+    "author": "Lily Tomlin"
+  },
+  {
+    "text": "Większość ludzi przegapia szansę, ponieważ jest ubrana w kombinezon i wygląda jak praca",
+    "author": "Thomas A. Edison"
+  },
+  {
+    "text": "Z samodyscypliną prawie wszystko jest możliwe",
+    "author": "Theodore Roosevelt"
+  },
+  {
+    "text": "W świecie, który zmienia się szybko podejściem gwarantującym przegraną jest niepodejmowanie ryzyka",
+    "author": "Mark Zuckerberg"
+  },
+  {
+    "text": "Wiatry i fale zawsze sprzyjają najlepszym nawigatorom",
+    "author": "Edward Gibbon"
+  },
+  {
+    "text": "Aktywność jest punktem wyjścia i kluczem do drzwi, za którymi kryje się każdy sukces",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "Szkoła doświadczenia kosztuje, ale żadna inna nie potrafi lepiej wykształcić człowieka",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Największym sekretem w życiu jest to, że tak naprawdę nie istnieje żaden sekret. Jakikolwiek masz cel, osiągniesz go, jeśli tylko gotowy jesteś ciężko pracować.",
+    "author": "Oprah Winfrey"
+  },
+  {
+    "text": "Opanuj swój umysł albo on opanuje Ciebie",
+    "author": "Horacy"
+  },
+  {
+    "text": "Ucz się na błędach. Jeżeli jesteś przedsiębiorcą i Twój pierwszy interes okazał się być klapą, witaj w klubie.",
+    "author": "Richard Branson"
+  },
+  {
+    "text": "Ważne jest w życiu, by wiedzieć, kiedy skorzystać z okazji, ale nie mniej ważne wiedzieć, kiedy z niej korzystać nie należy",
+    "author": "Benjamin Disraeli"
+  },
+  {
+    "text": "Do każdego mówię tak samo, niezależnie od tego, czy jest to śmieciarz, czy rektor uniwersytetu",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Życie nie polega na tym, by mieć - chodzi raczej o to, by bardziej być",
+    "author": "Nick Vujicic"
+  },
+  {
+    "text": "Skupienie jest kluczem do manifestowania swoich pragnień",
+    "author": "Stephen Richards"
+  },
+  {
+    "text": "Codziennie rano powtarzam sobie: żadna z rzeczy, które dzisiaj powiem, niczego mnie nie nauczy. Jeśli zatem chcę dowiedzieć się czegoś nowego, to muszę słuchać.",
+    "author": "Larry King"
+  },
+  {
+    "text": "Zmiana jest jedną z cech życia. Ci, którzy skupiają się jedynie na przeszłości lub teraźniejszości z całą pewnością przegapią przyszłość.",
+    "author": "John F. Kennedy"
+  },
+  {
+    "text": "Nie czytaj tylko łatwych książek. Mogą być zajmujące, ale dzięki nim się nie rozwiniesz",
+    "author": "Jim Rohn"
+  },
+  {
+    "text": "Ponad wszystko, nie ustalaj ograniczających reguł",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "Odważnym szczęście sprzyja",
+    "author": "Wergiliusz"
+  },
+  {
+    "text": "Najbardziej niezadowoleni klienci to dla Ciebie najlepsze źródło informacji",
+    "author": "Bill Gates"
+  },
+  {
+    "text": "Jeżeli nie wiesz dokąd zmierzasz, każda droga zaprowadzi Cię donikąd",
+    "author": "Henry Kissinger"
+  },
+  {
+    "text": "Mówić nie myśląc, to tak jak strzelać nie celując",
+    "author": "Miguel de Cervantes"
+  },
+  {
+    "text": "Jest cechą głupoty dostrzegać błędy innych, a zapominać o swoich",
+    "author": "Cyceron"
+  },
+  {
+    "text": "Wiedza jest drugim słońcem dla ludzi",
+    "author": "Platon"
+  },
+  {
+    "text": "Najpotężniejszy jest ten, kto panuje nad sobą",
+    "author": "Lucjusz Seneka"
+  },
+  {
+    "text": "Człowiek osiągnął sukces, jeżeli wstaje rano i kładzie się spać w nocy, a pomiędzy tym robi to co chce robić",
+    "author": "Bob Dylan"
+  },
+  {
+    "text": "Twoje sukcesy życiowe zawsze są wprost proporcjonalne do Twojej gotowości służenia pomocą innym",
+    "author": "Brian Tracy"
+  },
+  {
+    "text": "Kluczem do nieśmiertelności jest prowadzenie życia wartego zapamiętania",
+    "author": "Bruce Lee"
+  },
+  {
+    "text": "Życie jest jak taksówka - licznik bije bez względu na to, czy się dokądś udajesz, czy też stoisz w miejscu",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Łańcuchy przyzwyczajenia są zbyt lekkie aby je poczuć, do czasu aż nie staną się zbyt ciężkie aby je rozerwać",
+    "author": "Warren Buffett"
+  },
+  {
+    "text": "Silny jest ten, kto potrafi przezwyciężyć swe szkodliwe przyzwyczajenia",
+    "author": "Benjamin Franklin"
+  },
+  {
+    "text": "Kto nie dąży do rzeczy niemożliwych, nigdy ich nie osiągnie",
+    "author": "Heraklit z Efezu"
+  },
+  {
+    "text": "Ptak siedzący na drzewie nie boi się, że gałąź się złamie, nie dlatego że ufa gałęzi, ale dlatego że wierzy we własne skrzydła",
+    "author": "autor nieznany"
+  },
+  {
+    "text": "Rozwój intelektualny należy rozpocząć w momencie narodzin i zakończyć dopiero w chwili śmierci",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Wszystko, czego się dotąd nauczyłeś, zatraci sens, jeśli nie potrafisz znaleźć zastosowania dla tej wiedzy",
+    "author": "Paulo Coelho"
+  },
+  {
+    "text": "Im więcej będziesz dawał wartości innym, tym bardziej będzie rósł poziom zaufania do Ciebie",
+    "author": "Roger Hamilton"
+  },
+  {
+    "text": "Szczęście przychodzi wtedy, gdy przestajesz narzekać na problemy, które masz i zaczynasz doceniać jak wiele innych masz już za sobą",
+    "author": "Nick Vujicic"
+  },
+  {
+    "text": "Największą nagrodą dla człowieka za jego trud nie jest to co w zamian dostaje, lecz to kim się dzięki temu staje",
+    "author": "John Ruskin"
+  },
+  {
+    "text": "Sukces jest jak śnieżna kula. Musisz być w ruchu, a im bardziej toczysz się we właściwym kierunku, tym większy się robi",
+    "author": "Steve Ferrante"
+  },
+  {
+    "text": "Doświadczenie - to nazwa, którą każdy nadaje swoim błędom",
+    "author": "Oscar Wilde"
+  },
+  {
+    "text": "Pamiętaj że wszystko, co uczynisz w życiu, zostawi jakiś ślad. Dlatego miej świadomość tego co robisz.",
+    "author": "Paulo Coelho"
+  },
+  {
+    "text": "Człowiek szlachetny nie szafuje obietnicami, lecz czyni więcej, niż przyrzekł",
+    "author": "Konfucjusz"
+  },
+  {
+    "text": "Jeżeli chcesz poznać prawdziwy charakter człowieka, daj mu władzę",
+    "author": "Abraham Lincoln"
+  },
+  {
+    "text": "Praca powinna być aktem miłości, a nie czymś w rodzaju małżeństwa z rozsądku",
+    "author": "Haruki Murakami"
+  },
+  {
+    "text": "Ludzie czasem myślą jak zabić czas, a to czas ich zabija",
+    "author": "Alfons Allais"
+  },
+  {
+    "text": "Inteligencja to zdolność adaptacji do zmian",
+    "author": "Stephen Hawking"
+  },
+  {
+    "text": "Każda zmiana jest trudna na początku, burzliwa w trakcie i cudowna na końcu",
+    "author": "Robin S. Sharma"
+  },
+  {
+    "text": "Jeśli chcesz mieć szczęśliwe życie, skup się na swoich celach a nie na tym czego oczekują od Ciebie ludzie",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Życie jest zbyt krótkie żeby marnować je na ucieczki",
+    "author": "Marjorie M. Liu"
+  },
+  {
+    "text": "Mogę zaakceptować porażkę, ale nie mogę zaakceptować braku próby",
+    "author": "Michael Jordan"
+  },
+  {
+    "text": "Uważam, że lepiej odbudowywać się w cierpieniu, lecz w prawdzie, niż spędzić całe życie w iluzji i umrzeć jako nieudacznik",
+    "author": "Maxime Chattam"
+  },
+  {
+    "text": "Czy słyszałeś kiedyś, żeby człowiek, który przez całe życie dążył wiernie do celu, nie osiągnął go w najmniejszym stopniu?",
+    "author": "Henry David Thoreau"
+  },
+  {
+    "text": "Cel jest niczym betonowy fundament, który koniecznie należy położyć zanim zbudujemy dom",
+    "author": "Lisa McInnes-Smith"
+  },
+  {
+    "text": "Każdy ma w życiu swoje powołanie, właściwą misję. Dlatego nikogo nie można zastąpić ani też powtórzyć niczyjego życia.",
+    "author": "Victor Frankl"
+  },
+  {
+    "text": "Ambicja to żadna zbrodnia, zwłaszcza jeśli ktoś zaczyna od zera",
+    "author": "Lisa Kleypas"
+  },
+  {
+    "text": "Tylko ci, którzy ryzykują pójście za daleko dowiedzą się jak daleko można dojść",
+    "author": "Thomas Stearns Eliot"
+  },
+  {
+    "text": "Ciekawość jest najpotężniejszą siłą napędową w kosmosie, ponieważ jest w stanie pokonać dwie największe siły hamujące: rozsądek i strach",
+    "author": "Walter Moers"
+  },
+  {
+    "text": "Kto nie ma odwagi do marzeń, nie będzie miał siły do walki",
+    "author": "Andre Malraux"
+  },
+  {
+    "text": "Nigdy nie ma wystarczającej ilości czasu, by zrobić wszystko, ale zawsze jest go wystarczająco dużo, by zrobić to, co najważniejsze",
+    "author": "Brian Tracy"
+  },
+  {
+    "text": "Perspektywa śmierci to bardzo silna motywacja",
+    "author": "Dan Brown"
+  },
+  {
+    "text": "Bez przekonania, nigdy nie zaczniesz. Bez konsekwencji, nigdy nie skończysz.",
+    "author": "Denzel Washington"
+  },
+  {
+    "text": "Od cudzego zdania lepsze jest własne doświadczenie",
+    "author": "autor nieznany"
+  },
+  {
+    "text": "Dobre życie jest procesem, a nie stanem. Jest kierunkiem, a nie celem.",
+    "author": "Carl Rogers"
+  },
+  {
+    "text": "Ceń swoje wizje i marzenia, ponieważ są dziećmi twojej duszy, odciskami palców twoich ostatecznych osiągnięć",
+    "author": "Napoleon Hill"
+  },
+  {
+    "text": "Wiele złych kroków uczyniono, stojąc w miejscu",
+    "author": "Timothy Ferriss"
+  },
+  {
+    "text": "Spieszcie się robić błędy w młodości, później się na nie nie odważycie",
+    "author": "autor nieznany"
+  },
+  {
+    "text": "Jeśli chcesz mieć szczęśliwe życie, skup się na swoich celach a nie na tym, czego oczekują od Ciebie ludzie",
+    "author": "Albert Einstein"
+  },
+  {
+    "text": "Nie możesz poszybować w górę z orłami, jeśli grzebiesz się razem z kurami",
+    "author": "Jamie Dornan"
+  },
+  {
+    "text": "Entuzjazm jest, jak paliwo w samochodzie. Jak jest - jedziesz, jak go nie ma - siedzisz w środku i rozglądasz się dookoła, jak jadą inni.",
+    "author": "Aleksander Sienkiewicz"
+  },
+  {
+    "text": "Nieważne skąd pochodzisz. Ważne dokąd zmierzasz.",
+    "author": "Brian Tracy"
+  },
+  {
+    "text": "Kto wszystko widzi w czarnych barwach, temu już z rana słońce zachodzi",
+    "author": "Phil Bosmans"
+  },
+  {
+    "text": "Trzeba robić to, co się lubi, i wtedy robi się to dobrze",
+    "author": "Andrzej Zaucha"
+  },
+  {
+    "text": "Powodzenia połowa – wierzyć we własne słowa",
+    "author": "Jan Sztaudynger"
+  },
+  {
+    "text": "Praca zespołowa to paliwo, które pozwala zwykłym ludziom na osiąganie niezwykłych rezultatów",
+    "author": "Andrew Carnegie"
+  },
+  {
+    "text": "Ludzie, którzy nie wierzą, nie wygrywają",
+    "author": "Włodzimierz Szaranowicz"
+  },
+  {
+    "text": "Ptaki urodzone w klatce myślą, że latanie to choroba",
+    "author": "A. Jodorowsky"
+  },
+  {
+    "text": "Szlachetny człowiek wymaga od siebie, prostak od innych",
+    "author": "Konfucjusz"
+  },
+  {
+    "text": "Bogaty jest taki człowiek, dla którego świat jest nieustannym odkrywaniem",
+    "author": "Georges Duhamel"
+  },
+  {
+    "text": "Naucz się zasad jak profesjonalista, by móc je potem łamać jak artysta",
+    "author": "Pablo Picasso"
+  },
+  {
+    "text": "Tyle wiemy o sobie, ile nas sprawdzono",
+    "author": "Wisława Szymborska"
+  },
+  {
+    "text": "Zawsze narzekamy, że życie jest takie krótkie, a zachowujemy się, jakby nie miało końca",
+    "author": "Seneka"
+  },
+  {
+    "text": "Sceptycyzm to elegancja strachu",
+    "author": "Emil Cioran"
+  },
+  {
+    "text": "A żyć możesz tylko dzięki temu, za co mógłbyś umrzeć",
+    "author": "Antoine de Saint-Exupéry"
+  },
+  {
+    "text": "Nie poddawaj się. Znieś cierpienie dzisiaj i żyj do końca życia jako mistrz.",
+    "author": "Muhammad Ali"
+  },
+  {
+    "text": "Snuj marzenia tak, jakbyś miał żyć wiecznie. Żyj tak, jakbyś miał umrzeć dziś.",
+    "author": "James Dean"
+  },
+  {
+    "text": "Jeżeli myślisz, że coś możesz lub czegoś nie możesz, za każdym razem masz rację.",
+    "author": "Henry Ford"
+  },
+  {
+    "text": "Na świecie nic nie jest całkowicie złe, córeczko - powiedział tata, patrząc na zegar. Nawet ten zepsuty zegar dwa razy na dobę wskazuje właściwą godzinę.",
+    "author": "Paulo Coelho, Brida"
+  },
+  {
+    "text": "Nie bój się jutra. Niech ono boi się Ciebie. Wyznacz kierunek, a droga stanie się prosta, To Ty możesz sprawić, że jutro zacznie działać na Twoją korzyść.",
+    "author": "Jan Paweł II"
+  },
+  {
+    "text": "Są trzy prawdy: świento prawda, tys prawda i gówno prawda",
+    "author": "ks. Józef Tischner"
+  },
+  {
+    "text": "Jeśli znajdziesz drogę, na której nie ma żadnych przeszkód, to najpewniej wiedzie ona donikąd",
+    "author": "Frank A. Clark"
+  },
+  {
+    "text": "Łatwiej kijek pocienkować, niż go potem pogrubasić",
+    "author": "Aleksander Fredro"
+  },
+  {
+    "text": "Nie ma większej radości dla głupiego, jak znaleźć głupszego od siebie",
+    "author": "Aleksander Fredro"
+  },
+  {
+    "text": "Że nikt ci nie powie, żeś głupi, przez to mądrym nie jesteś",
+    "author": "Aleksander Fredro"
+  },
+  {
+    "text": "Każda sowa głupia w dzień",
+    "author": "Aleksander Fredro"
+  },
+  {
+    "text": "Przyjaciół kochamy dla ich wad, bo lubimy, gdy ktoś też ma wady",
+    "author": "Aleksander Fredro"
+  },
+  {
+    "text": "I kura ma skrzydła jak orzeł, ale cóż z tego?",
+    "author": "Aleksander Fredro"
+  },
+  {
+    "text": "Nie pozwól, aby dobry kryzys się zmarnował",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Masz wrogów? To dobrze. To znaczy, że broniłeś czegoś w ciągu swojego życia.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Jeśli przechodzisz przez piekło, nie zatrzymuj się.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Sukces polega na przechodzeniu od porażki do porażki bez utraty entuzjazmu.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Historia będzie dla mnie łaskawa, ponieważ mam zamiar ją napisać.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Czasami ludziom zdarza się potknąć o prawdę, ale większość wstaje i idzie dalej jakby nic się nie stało.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "W życiu chodzi o to, żeby się uczyć tak, żeby inni nie spostrzegli się, że się człowiek uczy.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Dyplomata to człowiek, który dwukrotnie się zastanowi, zanim nic nie powie.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Dobry polityk musi umieć przepowiedzieć, co będzie się działo jutro, za tydzień, czy za rok i musi umieć wytłumaczyć, dlaczego nie zaszło to, co przepowiedział.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Co do mnie, jestem optymistą. Bycie kimkolwiek innym nie zdaje się być do czegokolwiek przydatne.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Jeśli posadzić przy stole najodważniejszego marynarza, najbardziej nieustraszonego lotnika i najmężniejszego żołnierza cóż ujrzymy? Sumę ich strachów.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Mówcy powinni mieć na uwadze nie tylko to, by wyczerpać temat, ale także, by nie wyczerpać słuchaczy.",
+    "author": "Winston Churchill"
+  },
+  {
+    "text": "Nauczyłem się, że odwaga nie polega na braku strachu, ale na triumfie ponad nim. Odważny człowiek to nie ten który nie odczuwa strachu, ale ten który go pokonał.",
+    "author": "Nelson Mandela"
+  },
+  {
+    "text": "Powiedz mi, a zapomnę, pokaż mi, a zapamiętam, pozwól mi zrobić, a zrozumiem.",
+    "author": "Konfucjusz"
+  }
+]
