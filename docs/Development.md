@@ -10,13 +10,20 @@ Development-related information
 
 ## Getting started
 
-1. Build, create and start Docker's containers by running command:
+1. Create the `.env` file in the root of the project. You can use the
+   `.env.example` file as a template.
 
    ```bash
-   docker compose up --detach
+   cp .env.example .env
    ```
 
-2. Open the app in your browser: http://localhost:5173
+2. Build, create and start Docker's containers by running command:
+
+   ```bash
+   docker compose up --build --detach
+   ```
+
+3. Open the app in your browser: http://localhost:5173
 
 ## Tips
 

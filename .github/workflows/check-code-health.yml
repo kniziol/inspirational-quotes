@@ -26,6 +26,8 @@ jobs:
           version: ^12.0
           runtime: node@${{ matrix.node-version }}
           cache: true
+      - name: Create the .env file
+        run: cp .env.example .env
       - name: Run Svelte diagnostics checks
         run: pnpm check
       - name: Run Prettier & ESLint
@@ -47,6 +49,8 @@ jobs:
           version: ^12.0
           runtime: node@${{ matrix.node-version }}
           cache: true
+      - name: Create the .env file
+        run: cp .env.example .env
       - name: Run the integration tests
         run: npx playwright install && pnpm test:integration
       - name: Run the unit tests
