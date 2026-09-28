@@ -107,6 +107,14 @@ docker compose exec app nr test:unit
 
 ### Integration tests only
 
+#### Install browser dependencies along with browser binaries
+
+```bash
+docker compose exec app nlx playwright install --with-deps
+```
+
+#### Run integration tests
+
 ```bash
 docker compose exec app nr test:integration
 ```
