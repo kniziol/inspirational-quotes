@@ -1,4 +1,5 @@
 <script lang="ts">
+  import '../styles/layout.css';
   import Content from '$lib/component/root/content.svelte';
   import type { Snippet } from 'svelte';
   import Footer from '$lib/component/root/footer.svelte';
