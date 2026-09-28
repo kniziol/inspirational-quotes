@@ -51,10 +51,12 @@ jobs:
           cache: true
       - name: Create the .env file
         run: cp .env.example .env
-      - name: Run the integration tests
-        run: npx playwright install && pnpm test:integration
+      - name: Install browser dependencies along with browser binaries (required by integration tests)
+        run: pnpm exec playwright install --with-deps
       - name: Run the unit tests
         run: pnpm test:unit
+      - name: Run the integration tests
+        run: pnpm test:integration
   update-badges:
     runs-on: ${{ matrix.os }}
     needs: [test]

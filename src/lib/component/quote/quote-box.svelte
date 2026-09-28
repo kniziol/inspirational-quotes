@@ -10,12 +10,12 @@
   const { quote }: Props = $props();
   const isLoading = getContext<() => boolean>('isLoading');
 
-  const classes = classNames('text-center', {
+  const classes = classNames('quote-box text-center', {
     hidden: isLoading(),
   });
 </script>
 
 <div class={classes}>
-  <p>{quote.text}</p>
-  <p>{quote.author}</p>
+  <p class="text">{quote.text}</p>
+  <p class="author">{quote.author}</p>
 </div>
